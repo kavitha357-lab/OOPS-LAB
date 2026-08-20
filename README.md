@@ -21,18 +21,6 @@ Total units = 295.0
 Total bill = Rs 1770.0
 
 
-**Program 2**
-
-Enter the code 1:Currency\n2:Distance\n3:Time
-1
-Enter the Currecy code 1:Euro\n2:Dollar\n3:Yen
-2
-Enter amount in rupees
-6600
-Dollar : 100
-Enter amount in Dollar
-6
-Rupees : 396
 
 
 **Program 3**
